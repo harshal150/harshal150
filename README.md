@@ -12,14 +12,14 @@ Full Stack Developer
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), front-end development (React, HTML5, CSS3, Javascript, Responsive), database(MongoDB,Mysql) 
 
 ![Visitor Count](https://profile-counter.glitch.me/harshal150/count.svg)
-<!--
+
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
 </div>
--->
+
 Languages and Tools: 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
