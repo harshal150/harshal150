@@ -45,14 +45,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,python,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,python,express,nodejs" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=Typescript,Javascript,reactjs,redux,tailwind,materialui,bootstrap,css3,html" />
   </a>
 </p>
 
