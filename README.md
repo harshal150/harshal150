@@ -86,10 +86,11 @@
 --->
 <h3 align="left">Activity Graphs:</h3>
 
-[![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal150&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal150&bg_color=000000&color=ffffff&line=000000&point=00ffd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<!---
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Harshal Patil</a></p>
+--->
