@@ -14,7 +14,7 @@
 <!---
 - 🔭 I’m currently working on **UA IT(JKH IT)**
 --->
-- 🌱 I’m currently learning MERN stack development
+- 🌱 I’m currently learning **MERN stack development**
 <!---
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 --->
