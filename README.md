@@ -11,16 +11,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-
+<!---
 - 🔭 I’m currently working on **UA IT(JKH IT)**
-
-- 🌱 I’m currently learning **Devops**
+--->
+- 🌱 I’m currently learning ** MERN stack development **
 <!---
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 --->
-- 💬 Ask me about **JavaScript, ReactJS, MongoDB, NodeJS, Express, Typescript**
+- 💬 Ask me about **JavaScript, ReactJS, MongoDB, NodeJS, Express, Typescript
 
-- 📫 How to reach me **harshhh30601@gmail.com**
+- 📫 How to reach me ** harshhh30601@gmail.com **
 <!---
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 --->
@@ -35,6 +35,8 @@
  <a href="https://fb.com/harshalpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 --->
 <a href="https://instagram.com/heyy.harshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+ 
+<a href="https://twittwer/Heyy__harshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun___lk" height="30" width="40" /></a>
 <!---
 <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
 --->
